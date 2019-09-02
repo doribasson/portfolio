@@ -1,0 +1,59 @@
+@font-face {
+    font-family: RobotoCondensed;
+    src:url(assets/roboto-condensed.light.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: EconomicaBold;
+    src: url(assets/economica-bold.ttf)
+}
+
+
+
+body{  
+    text-align: center;
+    font-size: 20px;
+    padding: 2.5%;
+    font-family: 'RobotoCondensed'
+} 
+
+h1, h2, h3, h4, h5 {
+  font-family: 'EconomicaBold';
+}
+
+.track {
+    width: 250x; /* //width track name */    
+    height: 250px; /* //height track name  */
+    position: relative; /* make good position*/
+    display: inline-block; /* //make each track appear in column */
+    margin: 20px; /* //he fix the  position */
+    cursor: pointer; /* cursor pointer so the user understands that can click */
+}
+
+.track-image { 
+    width: 250px;   
+    height: 250px;
+}
+
+.track-text {
+    position: absolute;
+    bottom: 0px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 250px; /* //width track name */    
+}
+
+.track-icon {
+    position: absolute; /* the buttom in the middle of pic like the track text  */
+    bottom: 100px; /* that way ends up near the middle */
+    left: 100px; /*take the buttom from left to the middle.. ends up near the middle terms of horizontal axis */
+    color: white; /* for the actual text  */
+    background-color:  black;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px; /* make the button to be cicrle..background become this nice circel in the back */
+    padding: 10px; /* change the size of circle for the text and the backgroung  */
+    opacity: 0.8; /* ..the shadow of the circle and button make it slightly opaque so that way it overlays nicely on top of the image */
+}

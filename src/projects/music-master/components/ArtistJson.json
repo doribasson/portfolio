@@ -1,0 +1,882 @@
+{
+    "artists": {
+      "href": "https://api.spotify.com/v1/search?query=bruno&type=artist&offset=0&limit=1",
+      "items": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "followers": {
+            "href": null,
+            "total": 21314075
+          },
+          "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/aa32d6d4ca2467974403518dd3ebfe8831c5ced1",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/63cad86cb183568085a4e5f0be86aa187cc511e4",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/5461dcbb3f23e1df62d85c8273fc49cc4edd49d5",
+              "width": 160
+            }
+          ],
+          "name": "Bruno Mars",
+          "popularity": 91,
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "limit": 1,
+      "next": "https://api.spotify.com/v1/search?query=bruno&type=artist&offset=1&limit=1",
+      "offset": 0,
+      "previous": null,
+      "total": 2664
+    }
+  }
+
+
+
+
+
+
+
+
+
+  {
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "type": "artist",
+            "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+        },
+        "href": "https://api.spotify.com/v1/albums/5a4sJJ3qjn6hqRsvm0Veso",
+        "id": "5a4sJJ3qjn6hqRsvm0Veso",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c5e4719dce6d2037a0628c4112e00073f61df72e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e94b3e76ed7fe65a7d63ec0cc442737d22edf8d7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a186161ecba4f4fc31fb46b583c4275e64617857",
+            "width": 64
+          }
+        ],
+        "name": "Please Me",
+        "release_date": "2019-02-15",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5a4sJJ3qjn6hqRsvm0Veso"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "type": "artist",
+          "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200889,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAT21811659"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0PG9fbaaHFHfre2gUVo7AN",
+      "id": "0PG9fbaaHFHfre2gUVo7AN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Please Me",
+      "popularity": 85,
+      "preview_url": "https://p.scdn.co/mp3-preview/a25d43f3262e07622ba8876b10d7a56d069eea05?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0PG9fbaaHFHfre2gUVo7AN"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+            },
+            "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+            "id": "13y7CgLHjMVRMDqxdx0Xdo",
+            "name": "Gucci Mane",
+            "type": "artist",
+            "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
+        },
+        "href": "https://api.spotify.com/v1/albums/5xqQtdlJUY7Fg4BMp13LrX",
+        "id": "5xqQtdlJUY7Fg4BMp13LrX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/77eb7c17cafe550306e6b93baeecab39436608b0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/77eb7c17cafe5502f539abe7c43973d7ebbc707e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/77eb7c17cafe55010e084bd5f6832292ecce2bdd",
+            "width": 64
+          }
+        ],
+        "name": "Evil Genius",
+        "release_date": "2018-12-07",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:5xqQtdlJUY7Fg4BMp13LrX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          },
+          "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+          "id": "46SHBwWsqBkxI7EeeBEQG7",
+          "name": "Kodak Black",
+          "type": "artist",
+          "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203161,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAT21811087"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2G1tXoGBaEMJ7FKGnkf6ud",
+      "id": "2G1tXoGBaEMJ7FKGnkf6ud",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Wake Up in the Sky",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/43ece6da1fe67dc3a5f44ca967fec62e918ce69d?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2G1tXoGBaEMJ7FKGnkf6ud"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        },
+        "href": "https://api.spotify.com/v1/albums/4PgleR09JVnm3zY1fW3XBA",
+        "id": "4PgleR09JVnm3zY1fW3XBA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bf41f93f8c895eff007b88bd2e23e12dfe078792",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/63ddbd647a5a4e672da6b6eb29cfc38c985bffca",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f77f484d87a4b84e611af30011c381f9ccef0d0b",
+            "width": 64
+          }
+        ],
+        "name": "24K Magic",
+        "release_date": "2016-11-17",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206693,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21602948"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0KKkJNfGyhkQ5aFogxQAPU",
+      "id": "0KKkJNfGyhkQ5aFogxQAPU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "That's What I Like",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/f09116ce18bd77f543e68a925e5a96509e79ac6a?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        },
+        "href": "https://api.spotify.com/v1/albums/58ufpQsJ1DS5kq4hhzQDiI",
+        "id": "58ufpQsJ1DS5kq4hhzQDiI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/da39a8f80539ea048011ee3aa59f4066659290ea",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e404a30a9e9a449e1f30156940fb0af63e45a42e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6f958e8a9335e1458fc81f22a72f87a11737179e",
+            "width": 64
+          }
+        ],
+        "name": "Unorthodox Jukebox",
+        "release_date": "2012-12-07",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213826,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21206701"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nJW01T7XtvILxQgC5J7Wh",
+      "id": "0nJW01T7XtvILxQgC5J7Wh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "When I Was Your Man",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/d93150cf43f68c863d9f73a6f1e2b3e64e44488e?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "type": "artist",
+            "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
+        },
+        "href": "https://api.spotify.com/v1/albums/3mumK2ar9b4JPhVOZR0V2p",
+        "id": "3mumK2ar9b4JPhVOZR0V2p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/816dcd7b9b6651dd39ef483f41583514a3acad3c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/056b3651a4483097848b5bf9f0b8903487a5b669",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/4a56ddc69f70e5648b0b6d6d45e466512eeed35a",
+            "width": 64
+          }
+        ],
+        "name": "Finesse (feat. Cardi B) [Remix]",
+        "release_date": "2017-12-20",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3mumK2ar9b4JPhVOZR0V2p"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "type": "artist",
+          "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217288,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21705441"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Vo4wInECJQuz9BIBMOu8i",
+      "id": "3Vo4wInECJQuz9BIBMOu8i",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Finesse - Remix; feat. Cardi B",
+      "popularity": 79,
+      "preview_url": "https://p.scdn.co/mp3-preview/10fbdd7986417e30e3bbf06d3fa22efe1663b2ee?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3Vo4wInECJQuz9BIBMOu8i"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        },
+        "href": "https://api.spotify.com/v1/albums/1uyf3l2d4XYwiEqAb7t7fX",
+        "id": "1uyf3l2d4XYwiEqAb7t7fX",
+        "images": [
+          {
+            "height": 636,
+            "url": "https://i.scdn.co/image/0a01bbfac984fe3a55192aceea6c0fe9bf495c09",
+            "width": 640
+          },
+          {
+            "height": 298,
+            "url": "https://i.scdn.co/image/3d279adc8126da0e4b6f2247a6e1dbfbc559e1ac",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/96ebe0fc8c5c9a0ee315575935f1700ef8e02a1d",
+            "width": 64
+          }
+        ],
+        "name": "Doo-Wops & Hooligans",
+        "release_date": "2010-10-05",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220733,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21001269"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BqBn9nzAq8spo5e7cZ0dJ",
+      "id": "7BqBn9nzAq8spo5e7cZ0dJ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Just the Way You Are",
+      "popularity": 78,
+      "preview_url": "https://p.scdn.co/mp3-preview/07c6c33d6426d61ffd2e93d4c06ca599f7761b46?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        },
+        "href": "https://api.spotify.com/v1/albums/4PgleR09JVnm3zY1fW3XBA",
+        "id": "4PgleR09JVnm3zY1fW3XBA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bf41f93f8c895eff007b88bd2e23e12dfe078792",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/63ddbd647a5a4e672da6b6eb29cfc38c985bffca",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f77f484d87a4b84e611af30011c381f9ccef0d0b",
+            "width": 64
+          }
+        ],
+        "name": "24K Magic",
+        "release_date": "2016-11-17",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225983,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21602944"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6b8Be6ljOzmkOmFslEb23P",
+      "id": "6b8Be6ljOzmkOmFslEb23P",
+      "is_local": false,
+      "is_playable": true,
+      "name": "24K Magic",
+      "popularity": 78,
+      "preview_url": "https://p.scdn.co/mp3-preview/3213a35ec32d4c747e794072a5ef7b464b4fcb69?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        },
+        "href": "https://api.spotify.com/v1/albums/58ufpQsJ1DS5kq4hhzQDiI",
+        "id": "58ufpQsJ1DS5kq4hhzQDiI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/da39a8f80539ea048011ee3aa59f4066659290ea",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e404a30a9e9a449e1f30156940fb0af63e45a42e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6f958e8a9335e1458fc81f22a72f87a11737179e",
+            "width": 64
+          }
+        ],
+        "name": "Unorthodox Jukebox",
+        "release_date": "2012-12-07",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233478,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21203287"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3w3y8KPTfNeOKPiqUTakBh",
+      "id": "3w3y8KPTfNeOKPiqUTakBh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Locked Out of Heaven",
+      "popularity": 77,
+      "preview_url": "https://p.scdn.co/mp3-preview/c647489f28d840b545b90e10067012f504dc7b68?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        },
+        "href": "https://api.spotify.com/v1/albums/4PgleR09JVnm3zY1fW3XBA",
+        "id": "4PgleR09JVnm3zY1fW3XBA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bf41f93f8c895eff007b88bd2e23e12dfe078792",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/63ddbd647a5a4e672da6b6eb29cfc38c985bffca",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f77f484d87a4b84e611af30011c381f9ccef0d0b",
+            "width": 64
+          }
+        ],
+        "name": "24K Magic",
+        "release_date": "2016-11-17",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261240,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21602949"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kN8xEmgMW9mh7UmDYHlJP",
+      "id": "0kN8xEmgMW9mh7UmDYHlJP",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Versace on the Floor",
+      "popularity": 75,
+      "preview_url": "https://p.scdn.co/mp3-preview/734b5d7f9b5552bb2a886b042be24c9ca6be9c9f?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0kN8xEmgMW9mh7UmDYHlJP"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        },
+        "href": "https://api.spotify.com/v1/albums/58ufpQsJ1DS5kq4hhzQDiI",
+        "id": "58ufpQsJ1DS5kq4hhzQDiI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/da39a8f80539ea048011ee3aa59f4066659290ea",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e404a30a9e9a449e1f30156940fb0af63e45a42e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6f958e8a9335e1458fc81f22a72f87a11737179e",
+            "width": 64
+          }
+        ],
+        "name": "Unorthodox Jukebox",
+        "release_date": "2012-12-07",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178560,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAT21206909"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/55h7vJchibLdUkxdlX3fK7",
+      "id": "55h7vJchibLdUkxdlX3fK7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Treasure",
+      "popularity": 74,
+      "preview_url": "https://p.scdn.co/mp3-preview/2780356e9a11fab474e2bc11758e41ab309f60d6?cid=bda39c7852de422b8f3f9e50b526f361",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:55h7vJchibLdUkxdlX3fK7"
+    }
+  ]
+}

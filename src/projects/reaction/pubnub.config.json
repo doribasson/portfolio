@@ -1,0 +1,7 @@
+{
+"publishKey": "pub-c-82b4c9dd-2fbe-4036-8aa0-99a334716c91",
+"subscribeKey": "sub-c-24ea9920-a62d-11e9-a720-06189a0a16a6",
+"secretKey": "sec-c-ZmMwMGI0ZWUtNmU1Ny00Y2UyLThmMTctNTZmMzExMDUzNTI0"
+}
+
+/* this we take from https://admin.pubnub.com/#/user/513789/account/513747/app/35307816/key/640140/ */
